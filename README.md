@@ -1,4 +1,8 @@
-### Hi there 👋
+# My Qiita works
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/revsystem/posts.svg)](http://qiita.com/revsystem) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/revsystem/contributions.svg)](http://qiita.com/revsystem) [![My Qiita followers](https://qiita-badge.apiapi.app/s/revsystem/followers.svg)](http://qiita.com/revsystem)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=revsystem&count_private=true&show_icons=true&theme=monokai)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=revsystem&layout=compact&theme=monokai)
 
 <!--
 **revsystem/revsystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
