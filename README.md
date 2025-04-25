@@ -12,7 +12,7 @@
 - 🔭 I'm an AWS Community Builder in AI Engineering Category.
 - 📫 How to reach me: [My Portfolio site](https://rev-system.net).
 
-## Blog posts
+## Qiita posts
 
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revsystem&theme=vue-dark&layout=compact" /></p>
 
@@ -23,6 +23,6 @@
 - [Claude Desktop から Perplexity Ask MCP Server を使って最新の情報を取得する](https://qiita.com/revsystem/items/1e87004f603e46da1c67)
 <!-- BLOG-POST-LIST:END -->
 
-## 🏃‍♀️ QiitaActivities
+## 🏃‍♀️ Qiita Activities
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/revsystem/posts.svg)](http://qiita.com/revsystem) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/revsystem/contributions.svg)](http://qiita.com/revsystem) [![My Qiita followers](https://qiita-badge.apiapi.app/s/revsystem/followers.svg)](http://qiita.com/revsystem)
