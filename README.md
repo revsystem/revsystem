@@ -17,7 +17,10 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revsystem&theme=vue-dark&layout=compact" /></p>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Claude Desktop &lpar;Windows版&rpar; から Slack MCP Server を使って、チャンネルにポストした内容を取得していろいろなことをしてみる](https://qiita.com/revsystem/items/b7904fc53a72ef3ba02a)
+- [VS Code（Windows版）で AWS MCP Servers を使って AWS のドキュメントから情報を取得する](https://qiita.com/revsystem/items/911999b174dc5f3cf29d)
+- [Claude Desktop &lpar;Windows版&rpar; から AWS MCP Servers を使って AWS のドキュメントから情報を取得する](https://qiita.com/revsystem/items/1e4c738ecaeacb7f133d)
+- [Claude Desktop から Perplexity Ask MCP Server を使って最新の情報を取得する](https://qiita.com/revsystem/items/1e87004f603e46da1c67)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏃‍♀️ QiitaActivities
