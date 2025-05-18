@@ -17,10 +17,10 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revsystem&theme=vue-dark&layout=compact" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Q Developer CLI v1.10.1で、会話の履歴管理を試す](https://qiita.com/revsystem/items/5734679572cb6d5c4827)
 - [「Difyで作る生成AIアプリ完全入門」を読んで、議事録をまとめてくれるアプリを試す](https://qiita.com/revsystem/items/19b057686c9012801fc5)
 - [Google の Notebook LM を使って自分のキャリアや活動を紹介するポッドキャストを生成してみる](https://qiita.com/revsystem/items/fe44e3188ea963ccafd3)
 - [Claude Desktop や Cursor エディタから Backlog MCP Server を使って、Backlog とやり取りしてみる](https://qiita.com/revsystem/items/b8b9288a0e9ff2e22840)
-- [Claude Desktop &lpar;Windows版&rpar; から Slack MCP Serverを使って、チャンネルにポストした内容を取得していろいろなことをしてみる](https://qiita.com/revsystem/items/b7904fc53a72ef3ba02a)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏃‍♀️ Qiita Activities
