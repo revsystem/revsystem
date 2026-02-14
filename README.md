@@ -17,10 +17,10 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revsystem&theme=vue-dark&layout=compact" /></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Bedrock Evaluations による RAG の評価と、モデル選択の注意点を紹介](https://qiita.com/revsystem/items/3bc7813190bfc38ec3ec)
 - [Amazon Bedrock Knowledge Basesを使用してデュアルデータソース構成で検索の精度を検証する](https://qiita.com/revsystem/items/63748d9e2dae8e91daa4)
 - [【AWS re:Invent 2025】ネットワーキングで経験したことを紹介](https://qiita.com/revsystem/items/9168dedd0d30136b2591)
 - [AWS Certified AI Practitioner &lpar;AIF-C01&rpar;に合格したので勉強方法を紹介](https://qiita.com/revsystem/items/94cd902f9816d1512b52)
-- [Amazon Q Developer CLIでインフラコードをレビューするカスタムエージェントを作成](https://qiita.com/revsystem/items/cab7d9167f7f475243dc)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏃‍♀️ Qiita Activities
