@@ -18,4 +18,8 @@
 ## Note posts
 
 <!-- NOTE:START -->
+- [【AWS re:Invent 2025】歩数編](https://note.com/revsystem/n/n6a423154342d)
+- [【AWS re:Invent 2025】モバイル通信環境編](https://note.com/revsystem/n/n329c043d5ddf)
+- [【AWS re:Invent 2025】5K Race編](https://note.com/revsystem/n/n2a8835f3378e)
+- [【AWS re:Invent 2025】ネットワーキング編](https://note.com/revsystem/n/ncf7693590919)
 <!-- NOTE:END -->
