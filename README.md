@@ -1,9 +1,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm an SRE (Site Reliability Engineer).
+- 🧑‍💻 I'm an SRE, AI Engineer and FinOps Engineer.
 - 🌱 I'm currently learning Generative AI, AWS Bedrock and FinOps.
 - 😄 Pronouns: he/him
-- 🔭 I'm an AWS Community Builder in AI Engineering Category.
+- 🔭 I'm an AWS Community Builder in AI Engineering Category since 2025.
 - 📫 How to reach me: [My Portfolio site](https://rev-system.net).
 
 ## Qiita posts
