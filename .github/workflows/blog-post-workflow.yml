@@ -10,7 +10,7 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v4
+            - uses: actions/checkout@v5
             - name: Update Qiita posts in README
               uses: gautamkrishnar/blog-post-workflow@v1
               with:
@@ -19,7 +19,7 @@ jobs:
                 skip_commit: true
                 enable_keepalive: false
             - name: Commit Qiita changes if any
-              uses: stefanzweifel/git-auto-commit-action@v5
+              uses: stefanzweifel/git-auto-commit-action@v7
               with:
                 commit_message: "Update Qiita posts in README"
                 file_pattern: README.md
@@ -35,7 +35,7 @@ jobs:
                 skip_commit: true
                 enable_keepalive: false
             - name: Commit Note changes if any
-              uses: stefanzweifel/git-auto-commit-action@v5
+              uses: stefanzweifel/git-auto-commit-action@v7
               with:
                 commit_message: "Update Note posts in README"
                 file_pattern: README.md
