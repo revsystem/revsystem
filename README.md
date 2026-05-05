@@ -9,10 +9,10 @@
 ## Qiita posts
 
 <!-- BLOG-POST-LIST:START -->
-- [既存の S3 Vectors を Bedrock Knowledge Bases で利用する方法を紹介](https://qiita.com/revsystem/items/5f2aad56a3061a2d1eb2)
-- [Amazon Bedrock Evaluations による RAG の評価と、モデル選択の注意点を紹介](https://qiita.com/revsystem/items/3bc7813190bfc38ec3ec)
-- [Amazon Bedrock Knowledge Basesを使用してデュアルデータソース構成で検索の精度を検証する](https://qiita.com/revsystem/items/63748d9e2dae8e91daa4)
-- [【AWS re:Invent 2025】ネットワーキングで経験したことを紹介](https://qiita.com/revsystem/items/9168dedd0d30136b2591)
+- [EdgeRouter X にリモートアクセス VPN で接続する](https://qiita.com/revsystem/items/c4756d86caf3cb1e863c)
+- [Amazon Bedrock Guardrails 拒否トピックの日本語 false positive を検証し、Definition の書き方で改善する](https://qiita.com/revsystem/items/a3e947026ba5f7a1694c)
+- [1-bit LLM の Bonsai を Google Pixel 7aのLinuxターミナルで試す](https://qiita.com/revsystem/items/d1573be74bdd4b04b1fb)
+- [EdgeRouter X で AWS Lambda + Route 53 の DDNS クライアントを動かす](https://qiita.com/revsystem/items/e6668742a5736293092c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Note posts
