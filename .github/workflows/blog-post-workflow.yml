@@ -11,23 +11,33 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4
-            - name: Update Qiita posts
+            - name: Update Qiita posts in README
               uses: gautamkrishnar/blog-post-workflow@v1
               with:
                 max_post_count: "4"
                 feed_list: "https://qiita.com/revsystem/feed"
                 skip_commit: true
-            - name: Update Note posts
+                enable_keepalive: false
+            - name: Commit Qiita changes if any
+              uses: stefanzweifel/git-auto-commit-action@v5
+              with:
+                commit_message: "Update Qiita posts in README"
+                file_pattern: README.md
+                commit_user_name: blog-post-bot
+                commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+                commit_author: blog-post-bot <41898282+github-actions[bot]@users.noreply.github.com>
+            - name: Update Note posts in README
               uses: gautamkrishnar/blog-post-workflow@v1
               with:
                 comment_tag_name: "NOTE"
                 max_post_count: "4"
                 feed_list: "https://note.com/revsystem/rss"
                 skip_commit: true
-            - name: Commit and push if README changed
+                enable_keepalive: false
+            - name: Commit Note changes if any
               uses: stefanzweifel/git-auto-commit-action@v5
               with:
-                commit_message: "Updated with the latest blog posts"
+                commit_message: "Update Note posts in README"
                 file_pattern: README.md
                 commit_user_name: blog-post-bot
                 commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
