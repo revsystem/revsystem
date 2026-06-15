@@ -9,10 +9,10 @@
 ## Qiita posts
 
 <!-- BLOG-POST-LIST:START -->
+- [パブリックプレビュー版 AWS FinOps Agent を使ってみた](https://qiita.com/revsystem/items/bb7a1b9f4e4fabcb2e2b)
 - [Amazon Bedrock ナレッジベース向けの自動同期ソリューションを構築およびデプロイする](https://qiita.com/revsystem/items/836ec4c36a05c027d990)
 - [EdgeRouter X にリモートアクセス VPN で接続する](https://qiita.com/revsystem/items/c4756d86caf3cb1e863c)
 - [Amazon Bedrock Guardrails 拒否トピックの日本語 false positive を検証し、Definition の書き方で改善する](https://qiita.com/revsystem/items/a3e947026ba5f7a1694c)
-- [1-bit LLM の Bonsai を Google Pixel 7aのLinuxターミナルで試す](https://qiita.com/revsystem/items/d1573be74bdd4b04b1fb)
 <!-- BLOG-POST-LIST:END -->
 
 ## Note posts
