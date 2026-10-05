@@ -9,10 +9,10 @@
 ## Qiita posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS がリリースした判定専用モデル「Strands Decider 2B」を Jev と同じコーパスで検証した](https://qiita.com/revsystem/items/6a00d222dee59c7dec4a)
+- [TypeSafe Jev を RAG の rerank に使うと、Cohere Rerank より関連文書を正しく見分けられるのか検証した](https://qiita.com/revsystem/items/b619a211781af138e738)
 - [Amazon Bedrock の Fable 5 で PDF チャート画像の認識精度を検証する](https://qiita.com/revsystem/items/dd9688ca06d952efecf1)
 - [パブリックプレビュー版 AWS FinOps Agent を使ってみた](https://qiita.com/revsystem/items/bb7a1b9f4e4fabcb2e2b)
-- [Amazon Bedrock ナレッジベース向けの自動同期ソリューションを構築およびデプロイする](https://qiita.com/revsystem/items/836ec4c36a05c027d990)
-- [EdgeRouter X にリモートアクセス VPN で接続する](https://qiita.com/revsystem/items/c4756d86caf3cb1e863c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Note posts
